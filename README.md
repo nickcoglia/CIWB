@@ -1,2 +1,2 @@
-# CIWB
+# Desenvolvimento Web
 Disciplina de JavaScript
